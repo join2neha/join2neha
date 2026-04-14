@@ -10,8 +10,8 @@ I'm a Backend Engineer (L3) with 7+ years of experience building scalable, high-
 * ✉️  You can check my portfolio at [Neha Verma](https://nehaverma.in/)
 * 🧠  I'm learning Generative AI & Advanced System Architecture
 
-<a href="https://www.github.com/nehaverma1997" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/nehaverma1997?logo=github&style=for-the-badge&color=ec4899&labelColor=ffffff" /></a>
+<a href="https://www.github.com/join2neha" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/join2neha?logo=github&style=for-the-badge&color=ec4899&labelColor=ffffff" /></a>
 ### Skills
 
 <p align="left">
@@ -20,27 +20,27 @@ src="https://img.shields.io/github/followers/nehaverma1997?logo=github&style=for
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/nehaverma1997" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/nehaverma1997" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@nehaverma1997" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/10503741/neha-verma" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/join2neha" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/join2neha" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@join2neha" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/10503741/neha-verma" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
 
 
 ### My GitHub Stats
 
-<a href="http://www.github.com/nehaverma1997"><img src="https://github-readme-stats.vercel.app/api?username=nehaverma1997&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=000000&icon_color=ec4899&bg_color=ffffff&hide_border=true&show_icons=true" alt="nehaverma1997's GitHub stats" /></a>
+<a href="http://www.github.com/join2neha"><img src="https://github-readme-stats.vercel.app/api?username=join2neha&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=000000&icon_color=ec4899&bg_color=ffffff&hide_border=true&show_icons=true" alt="nehaverma1997's GitHub stats" /></a>
 
-<a href="http://www.github.com/nehaverma1997"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nehaverma1997&stroke=000000&background=ffffff&ring=6366f1&fire=6366f1&currStreakNum=000000&currStreakLabel=6366f1&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+<a href="http://www.github.com/join2neha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=join2neha&stroke=000000&background=ffffff&ring=6366f1&fire=6366f1&currStreakNum=000000&currStreakLabel=6366f1&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
-<a href="https://github.com/nehaverma1997" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehaverma1997&langs_count=10&title_color=6366f1&text_color=000000&icon_color=ec4899&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/join2neha" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=join2neha&langs_count=10&title_color=6366f1&text_color=000000&icon_color=ec4899&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/nehaverma1997/payment-assignment" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nehaverma1997&repo=payment-assignment&title_color=6366f1&text_color=000000&icon_color=ec4899&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/join2neha/payment-assignment" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=join2neha&repo=payment-assignment&title_color=6366f1&text_color=000000&icon_color=ec4899&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/nehaverma1997"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/join2neha"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 
 </ul>
